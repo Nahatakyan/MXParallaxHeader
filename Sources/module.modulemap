@@ -1,0 +1,6 @@
+module MXParallaxHeader {
+    header "MXParallaxHeader.h"
+    header "MXScrollView.h"
+    header "MXScrollViewController.h"
+    export *
+}
